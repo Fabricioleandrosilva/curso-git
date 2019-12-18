@@ -1,0 +1,9 @@
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.exe.config
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.csprojResolveAssemblyReference.cache
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio_Banco.FBanco.resources
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio_Banco.Properties.Resources.resources
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.csproj.GenerateResource.Cache
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.exe
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\bin\Debug\Exercicio Banco.pdb
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.exe
+C:\Users\Convidado!\Documents\Particular\Exercicio Banco\Exercicio Banco\obj\Debug\Exercicio Banco.pdb
